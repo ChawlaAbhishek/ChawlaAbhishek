@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Abhishek Chawla</a>!
+ As a Java Backend Developer with 9 months of professional experience , I have developed expertise in
+building rest api's with hibernate mapping and database tables from scratch. I have a strong
+understanding of spring boot , hibernate .
+
    
 </h2>
 
@@ -42,7 +46,7 @@ Here are some ideas to get you started:
 
 ## About Me
 <img align='right' src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400">
-<b style="font-weight:bold">Enthusiastic</b> and <b style="font-weight:bold">challenge-driven</b> graduate from Masai School specializing in full-stack web development. Skilled in <b style="font-weight:bold">HTML, CSS, JavaScript.</b> Looking forward to an exciting opportunity to work at a growing organization to enhance the skill set.
+<b style="font-weight:bold">Enthusiastic</b> and <b style="font-weight:bold">challenge-driven</b> graduate from Masai School specializing in full-stack web development. Skilled in <b style="font-weight:bold">HTML, CSS, JavaScript, Core java, Spring boot ,hibernate,mysql</b> Looking forward to an exciting opportunity to work at a growing organization to enhance the skill set.
 
 
 <!-- - 🔭 I’m currently working on FrontEnd Development -->
