@@ -33,6 +33,7 @@ understanding of spring boot , hibernate .
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
+<br/>
 
 
 <a href="https://www.linkedin.com/in/chawlaabhishek/">
